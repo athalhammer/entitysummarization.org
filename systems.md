@@ -26,3 +26,6 @@ All of these endpoints comply to the SUMMA API and can be consumed with the summ
 
 A demo which combines the DBpedia Spotlight entity linking and LinkSUM entity summarization can be found here:
 * <https://athalhammer.github.io/ELES/> (source code: <https://github.com/athalhammer/ELES>)
+
+**Dataset**
+Wikidata PageRank <http://danker.s3-website.eu-central-1.amazonaws.com/>
