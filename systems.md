@@ -11,7 +11,7 @@ ___
 ## LinkSUM - Awesome!
 Currently, LinkSUM and the WDAqua SummaServer are the only entity summarization systems freely available:
 
-* <https://km.aifb.kit.edu/services/link/>
+* <https://km.aifb.kit.edu/services/link/> (does not work properly any longer __since January 2021__)
 * <https://km.aifb.kit.edu/services/summaServer/> (SUMMA API reference implementation, source code <https://github.com/athalhammer/summaServer>)
 
 This boils down to the following **endpoints**:
