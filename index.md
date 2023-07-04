@@ -1,6 +1,3 @@
-[Research](./index)
-
-[Systems](./systems)
 
 ___
 Entity summarization is the problem of identifying a limited number of ordered RDF triples that summarize an entity in the best way—the result is typically presented in knowledge panels.
